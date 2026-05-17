@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\bin\Release\net9.0\HospitalManagement.Application.deps.json
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\bin\Release\net9.0\HospitalManagement.Application.dll
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\bin\Release\net9.0\HospitalManagement.Application.pdb
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\bin\Release\net9.0\HospitalManagement.Domain.dll
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\bin\Release\net9.0\HospitalManagement.Domain.pdb
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\obj\Release\net9.0\HospitalManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\obj\Release\net9.0\HospitalManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\obj\Release\net9.0\HospitalManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\obj\Release\net9.0\HospitalManagement.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\obj\Release\net9.0\HospitalManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\obj\Release\net9.0\HospitalManagement.Application.sourcelink.json
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\obj\Release\net9.0\Hospital.86C33EBC.Up2Date
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\obj\Release\net9.0\HospitalManagement.Application.dll
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\obj\Release\net9.0\refint\HospitalManagement.Application.dll
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\obj\Release\net9.0\HospitalManagement.Application.pdb
+C:\Users\Asus\Desktop\hospital-backend\HospitalManagement\HospitalManagement.Application\obj\Release\net9.0\ref\HospitalManagement.Application.dll
